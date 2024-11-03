@@ -10,8 +10,8 @@ The app consumes an external API and displays a number of movies to the user.
 
 - The app is fully mobile responsive
 
-[](https://github.com/GitongaMurithi/Movieland---react.js/blob/main/src/assets/Screenshot%20(149).png)
-[](https://github.com/GitongaMurithi/Movieland---react.js/blob/main/src/assets/Screenshot%20(150).png)
+![](https://github.com/GitongaMurithi/Movieland---react.js/blob/main/src/assets/Screenshot%20(149).png)
+![](https://github.com/GitongaMurithi/Movieland---react.js/blob/main/src/assets/Screenshot%20(150).png)
 
 - Cool colors and animations
 
