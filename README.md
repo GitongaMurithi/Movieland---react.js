@@ -14,6 +14,8 @@ The app consumes an external API and displays a number of movies to the user.
 ![](https://github.com/GitongaMurithi/Movieland---react.js/blob/main/src/assets/Screenshot%20(150).png)
 
 - Cool colors and animations
+- Dynamic movie data fetched in real-time
+- React.js hooks and state management to ensure seamless interaction
 
 Currently, two official plugins are available:
 
